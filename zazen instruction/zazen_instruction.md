@@ -23,6 +23,8 @@ the body, the second is harmonizing the breath, and the third is
 harmonizing the mind. Body, breath, and mind are the three most
 important points of practice in meditation.
 
+## The Body
+
 First I will explain how to harmonize the body. In almost
 all Buddhist traditions one sits in a cross-legged posture during
 meditation. If you are able to sit in a cross-legged position during
@@ -105,6 +107,8 @@ zazen with the lower half of your body. Also, keep the back straight,
 lower your eyesight three feet in front of your body, and hold your
 hands in the cosmic *mudra*. This is how we sit in zazen.
 
+## The Breath
+
 Next I will explain how to breathe in zazen; breathing is one of the
 most important points in any kind of meditation practice. When your
 posture is stable, first exhale from the mouth completely, letting the air
@@ -114,7 +118,7 @@ inhale through your nose. When you do this, you will feel the fresh air
 come in through your nose. Also, when you sit in meditation, breathe
 abdominally. Keeping your tongue on the roof of your mouth, breathe
 easily and naturally with the air coming into your body through your
-nose and down to your abdomen,. When we breathe in this way, the
+nose and down to your abdomen. When we breathe in this way, the
 belly moves as the air comes in and as it goes out. Keep the breath deep,
 smooth, and peaceful. It is best if the exhalation is longer than the
 inhalation in zazen. Just slowly and completely exhale all of the air, and
@@ -128,6 +132,8 @@ repeating the count over again after each series of ten breaths. Some
 teachers also teach watching the breath­ ­– paying special attention to
 the air as it comes in and goes out of the body. In my tradition we don’t
 count or watch the breath, we just breathe naturally, deeply and quietly.
+
+## The mind
 
 Of course even when we sit breathing quietly in this posture many
 things happen within the mind. In zazen we simply allow any thought,
