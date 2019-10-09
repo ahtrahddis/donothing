@@ -133,7 +133,7 @@ teachers also teach watching the breath­ ­– paying special attention to
 the air as it comes in and goes out of the body. In my tradition we don’t
 count or watch the breath, we just breathe naturally, deeply and quietly.
 
-## The mind
+## The Mind
 
 Of course even when we sit breathing quietly in this posture many
 things happen within the mind. In zazen we simply allow any thought,
@@ -183,7 +183,7 @@ how they feel before you get up. If your legs have fallen asleep, take
 your time standing up until you feel comfortable doing so.
 
 When we sit more than one period of zazen, between periods we do
-a walking meditation for ten minutes that is called **kinhin** in Japanese.
+a walking meditation for ten minutes that is called *kinhin* in Japanese.
 
 ## Some questions given by those receiving zazen instruction: 
 
