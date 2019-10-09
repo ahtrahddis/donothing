@@ -9,7 +9,7 @@ Indiana.*
 
 There are many traditions of Buddhism, and each tradition has its
 own approach to meditation practice. My practice was developed
-within that the Japanese Soto Zen tradition, so what I will tell you
+within the Japanese Soto Zen tradition, so what I will tell you
 about meditation is only from the perspective of that tradition. If
 you think my style of practice is not for you, you do not have to think
 that all types of meditation are not for you; there exist many other
