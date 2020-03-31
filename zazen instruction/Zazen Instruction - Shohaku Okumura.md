@@ -223,7 +223,7 @@ are different, but that is not important in our practice. In our practice
 the most important point is being fully present, right now, right here.
 That’s all. So our goal is coming back to this moment, to this place.
 
-***In the process of doing meditation do you notice special things in your mind? ***
+***In the process of doing meditation do you notice special things in your mind?***
 
 Like what you can see because you meditate, something beyond just thoughts?
 When we sit for long periods of time, of course we experience all
