@@ -11,7 +11,6 @@ This approach has been discovered and re-discovered many times and in many place
 
 • Dzogchen/Mahamudra (in Tibet);
 
-
 • Passive Contemplation (in Christianity); and 
 
 • Non-dual Awareness (according to some definitions of that phrase).
