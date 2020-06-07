@@ -2,12 +2,20 @@
 
 Do Nothing is an approach to rest that involves little or no effort. You don't even have to intentionally note restful states. It is totally passive and easy going.
 This approach has been discovered and re-discovered many times and in many places, so it is known by many different historical names. Here are a few:
-    • Choiceless Awareness (term used by Krishnamurti and others);
-    • Open Presence (term used by neuroscientists);
-    • Just Sitting (according to some definitions of that phrase);
-    • Dzogchen/Mahamudra (in Tibet);
-    • Passive Contemplation (in Christianity); and 
-    • Non-dual Awareness (according to some definitions of that phrase).
+
+• Choiceless Awareness (term used by Krishnamurti and others);
+
+• Open Presence (term used by neuroscientists);
+
+• Just Sitting (according to some definitions of that phrase);
+
+• Dzogchen/Mahamudra (in Tibet);
+
+
+• Passive Contemplation (in Christianity); and 
+
+• Non-dual Awareness (according to some definitions of that phrase).
+
 Do Nothing could also be called “The Technique of No Technique.” Because this sounds a bit selfcontradictory, you might suspect that there are a few subtle points involved in the instructions. Indeed, that is so.
 Let's start with the basic instructions (which are quite short). Then we can clarify the subtleties.
 
