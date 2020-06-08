@@ -5,7 +5,7 @@ This repository includes various texts regarding "choiceless" awareness meditati
 
 ## 4 Ways to Do Nothing
 
-This is a compilation texts regarding various techniques (Silent Illumination, Shikantaza, Pristine Mind, Do Nothing):
+This is a compilation of texts regarding various "choiceless" awareness meditation techniques (Silent Illumination, Shikantaza, Pristine Mind, Do Nothing):
 
 - [epub](https://github.com/atrahhdis/donothing/raw/master/4%20ways%20to%20do%20nothing/ebooks/4%20ways%20to%20do%20nothing%20-%20Various.epub)
 - [azw3](https://github.com/atrahhdis/donothing/raw/master/4%20ways%20to%20do%20nothing/ebooks/4%20ways%20to%20do%20nothing%20-%20Various.azw3) (kindle)
