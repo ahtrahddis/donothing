@@ -423,13 +423,7 @@ That’s what meditation is: in meditation we are actually remaining in Pristine
 
 There are no thoughts or emotions or other mental events to entertain in this state. It is much more comfortable than our ordinary state of mind. There are no ups and downs, no mood swings, and no good or bad states. It is clear like the blue sky. It is not like taking a nap or resting temporarily to get away from the turbulence of ordinary mind. Meditation provides much, much more for those who understand it and practice it.
 
-### Driving the Pristine Mind Highway
-
-One time I was traveling from Boston to Montreal to teach, and we were using the GPS in the car. I remember the GPS saying, “Continue on highway 89 for 50 miles.” To reach our destination, we had to continue on that highway. If we had gotten off the highway, we would have had to return to it in order to reach our destination.
-
-In the same way, when we practice meditation for thirty or forty minutes, we are continuing on the Pristine Mind highway for that period of time. When we are meditating, our internal GPS is saying, “Continue in Pristine Mind for 30 minutes. Do not exit.” If our thoughts arise and we follow them, that means we are exiting. If we exit accidentally, then we need to come back to that Pristine Mind highway and continue on our way, so that we do not become lost. Then, if we just remain there, journeying on that highway, we progress toward enlightenment. We simply move through an increasing awareness of our present awareness, experiencing our capacity to be aware. Do not worry if thoughts arise. Thoughts are like exit signs. We just need to be aware that we do not exit and get lost. We may pass many off-ramps, but as long as we do not take them, we are fine. If we are always attentive to the longer journey, then we are in a good place, even if thoughts do arise.
-
-The further we drive on that Pristine Mind highway, the more the environment changes. That drive I took along the East Coast was beautiful. As we passed through each landscape, a new and beautiful environment surrounded us. Similarly, when we are on the Pristine Mind highway, our view of the world around us becomes more and more beautiful. We pass all our old habits and belief systems and the residual debris of mind until the most majestic experiences become our way of perceiving the world.
+......
 
 ### Leave Your Mind Alone
 
@@ -455,33 +449,7 @@ When we remain in that clear state, there are no judgments, there are no labels,
 
 Once we learn to remain in Pristine Mind in our meditation session, then that pristine quality extends to our whole experience, our whole world. Thus, the reason we meditate is not to experience Pristine Mind only during formal meditation, but to have that experience carry over after meditation. Our experience will gradually carry over so that at all times we can access that fresh, clear experience—even when we are not meditating.
 
-### An Ego-Free Zone
-
-The Pristine Mind experience is an ego-free zone. An ego-free zone means that ego, an unhealthy sense of self, is not involved. In all our daily activities, ego is always involved, but in Pristine Mind there is no ego. There are only four avenues through which ego can operate: emotions, habits, beliefs, and thoughts. But in the pristine state of mind, none of those things exist, so ego cannot survive there. Without ego, there is no low self-esteem, no puffed-up arrogance, no false sense of self, nor any other unhealthy sense of self. Pristine Mind is a very comfortable state because no uncomfortable sense of self exists. It is a tensionless state without self-consciousness.
-
-When we are meditating, we remain in that ego-free zone without rigidity or tension. We feel buoyant and unbounded. Neither a superiority nor an inferiority complex can take control. We are in a state of real rest, both mentally and emotionally relaxed, because these tensions and unhealthy senses of self no longer operate in Pristine Mind.
-
-In fact, as we eventually discover, ego does not even exist; it is just a misperception. Once we have realization and we meditate, we directly perceive the truth, and the misperception of ego cannot survive. When all mental events are gone, then what is left is who we really are, what we truly are. Mental events, like those that constitute our ego, are temporary, artificial experiences. But when those are done and gone, what remains is Pristine Mind.
-
-As our meditation progresses, the unhealthy sense of self gradually disappears. All the extremes of a sense of self—from self-conceit to self-loathing—dissolve during meditation. When we are meditating, that sense of self fades away. When we are no longer meditating, it comes back again. But that changes as well over time, depending on how familiar we are with the nature of our mind. The more connected we are with Pristine Mind, then the more confident we feel in that state and the more we develop a healthy sense of self. With a truly healthy sense of self, we realize that even our sense of self is a mental projection. Our self-perception is flexible and fluid. Our confidence does not depend on a rigid sense of self.
-
-### Cruising Altitude
-
-When we transcend mental events by practicing Pristine Mind meditation, it is like reaching cruising altitude in an airplane. There is no turbulence whatsoever in our mind. We are free from disturbance and distraction, flying in a pristine state, completely serene, tranquil, and majestic. We effortlessly maintain that pristine state that is who we really are when we are not distracted by mental events.
-
-An airplane can sometimes smoothly cruise for hours in the sky. Similarly, we have that same kind of experience when we become proficient in our meditation. For twenty minutes there is no turbulence in our mind, there are no mental events. It is a completely boundless, buoyant, and fulfilling experience. That is what it is like to remain in our natural state, our Pristine Mind.
-
-Remaining in our natural state, remaining present, is not a blank or vacant state of nothingness, nor is it dull. We do not shut down our senses. In fact, we have the opposite experience. When we rest in Pristine Mind, we are much clearer and more present than when we are dwelling on mental events. We feel vibrant.
-
-It is when we are dwelling on mental events that we are not present. They distract us from any deep and vivid experience of the present moment. To some extent we ordinarily do not really know what is going on around us. But while we rest in the present moment, we are aware of everything that goes on in the space we are in. We are not caught up in those things; we are just aware of them.
-
-Meditation is not a dull or trancelike state, not a blank or unconscious state, and it’s definitely not sleep. These are the opposite of the meditation experience. Instead, in Pristine Mind meditation we feel the freedom to be in that moment, free from all entanglements of mind, free from all distortions, elaborations, and contrivances. It creates a very relaxed, open experience. We are more present and able to live very comfortably in the present moment.
-
-Even if we do not seek enlightenment, if we just want to feel happiness and joy and connect well with other people, Pristine Mind meditation is the best method. To connect with ourselves comfortably, or connect with other people with compassion and ease, we must first clean up the distortions of our mind. This is the function of Pristine Mind meditation.
-
-Meditation is the best way we can improve ourselves mentally, emotionally, and spiritually. If we want to enhance our life, there are many different ways we can try to do it, but the real miracle for transforming our life is meditation.
-
-Without meditation, our mind is always in “ego mode,” and it is never relaxed. If we want to have a beautiful and comfortable mind, if we want to present ourselves beautifully and comfortably to the rest of the world, we need to practice meditation. The more we remain in the meditation experience, the easier it is for us to connect with other people, and the more comfortable other people feel around us. The more disturbed our mind is, the more things we are worried about, the more we dwell on difficulties, then the more uncomfortable we become no matter what the circumstances. All of these problems that result from our undisciplined mental events can be remedied by meditating properly.
+......
 
 ### A boundless Experience
 
