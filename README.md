@@ -1,8 +1,4 @@
-# Shikantaza
+# Do Nothing
 
-This repository contains various texts/guides regarding Shikantaza/Silent Illumination/Just Sit practice.
+This repository includes information regarding "choiceless" awareness meditation techniques.
 
-The currently included texts are:
-
-- *The Silent Illumination Method* by Sheng Yen
-- *Zazen Instruction* by Shohaku Okumura 
