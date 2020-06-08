@@ -14,4 +14,4 @@ This is a compilation texts regarding various techniques (Silent Illumination, Z
 
 ## Various Texts:
 
-Visit [this link] (https://github.com/atrahhdis/donothing/tree/master/various) in order to access various relevant texts. Note that all of them are included in "5 Ways to Do Nothing".
+Visit [this link](https://github.com/atrahhdis/donothing/tree/master/various) in order to access various relevant texts. Note that all of them are included in [5 Ways to Do Nothing".](https://github.com/atrahhdis/donothing#5-ways-to-do-nothing)
