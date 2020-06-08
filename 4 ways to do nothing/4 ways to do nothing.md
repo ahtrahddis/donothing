@@ -377,23 +377,6 @@ Bloomington, IN 47401</br>
 www.sanshinji.org 
 
 
-# Choiceless Attention (The Mind Illuminated)
-
-## Set of Instructions by Culadasa
-
-*The following text is an excerpt from ["The Mind Illuminated"](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985) by John Yates, Matthew Immergut and Jeremy Graves.*
-
-Recall that some objects arrive in awareness with the intention that they will also become objects of attention. The practice of *choiceless attention* involves allowing attention to move freely in pursuit of the objects that arrive with the strongest intention to become objects of attention. In terms of the Mind-System model, choiceless attention is not truly “choiceless.” Rather, a powerful consensus of unified sub-minds has chosen to allow such objects to become the focus of attention. Monitoring this free movement of attention with metacognitive introspective awareness is an effective exercise for making this awareness more powerful.
-
-This practice is similar to momentary concentration, except that now you’re allowing objects of attention to “self-select.” Subjectively, you experience attention freely and spontaneously “striking” or falling on certain objects, one after the other, as they arrive in the field of conscious awareness. This is just like the spontaneous movements of attention in an untrained mind, except now attention never becomes so engrossed as to be “captured.” Each brief period of intense focus is followed by attention quickly moving to something else. Furthermore, since the discriminating mind is pacified and there’s mental pliancy, mental objects don’t predominate as they normally would.
-
-The strong, continuous quality of metacognitive awareness makes the practice of momentary attention into one of observing the mind itself as an ongoing process.
-
-Most important, however, is the strong, continuous metacognitive quality of awareness present as the objects of attention constantly change. This makes the whole experience into one of observing the mind itself as an ongoing process, rather than merely experiencing the contents of attention as they arise and pass away. Of course, this exercise relates directly to the practice of mindfulness in daily life, where attention also moves freely. Now, it will be easier throughout the day to maintain a mindfulness that takes the form of knowing the “bigger picture” of what the mind is doing and why.
-
-As with the meditation on arising and passing away, you may find yourself entering a flow state, accompanied by Grades III and IV *pīti* consisting of incomplete pacification of the senses. This shows that the mind is continuing to unify as you engage in these practices.
-
-
 # Pristine Mind (Dzogchen)
 
 ## Set of Instructions by Orgyen Chowang
@@ -618,8 +601,6 @@ Now you can appreciate the initial phrase in the instructions: “Let whatever h
 
 - [Zazen Instruction](http://www.sanshinji.org/uploads/4/4/1/9/44192211/zazen_instructions.pdf) by [Shohaku Okumura](https://en.wikipedia.org/wiki/Sh%C5%8Dhaku_Okumura)
 
-- ["The Mind Illuminated"](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985) by [John Yates](http://culadasa.com/about/), Matthew Immergut and Jeremy Graves.
-
 - ["Our Pristine Mind"](https://pristinemind.org/our-pristine-mind/) by [Orgyen Chowang](https://pristinemind.org/about-us/orgyen-chowang-rinpoche/)
 
 - [Five ways to Know yourself](https://www.shinzen.org/wp-content/uploads/2016/08/FiveWaystoKnowYourself_ver1.6.pdf) by [Shinzen Young](https://www.shinzen.org/)
@@ -633,4 +614,4 @@ This e-book was created by [mahasivipassana.com](https://mahasivipassana.com) us
 
 ## Version
 
-V 1.00 - 2020-06-08
+V 1.10 - 2020-06-08
