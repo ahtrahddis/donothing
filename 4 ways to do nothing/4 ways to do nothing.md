@@ -577,9 +577,9 @@ Now you can appreciate the initial phrase in the instructions: “Let whatever h
 
 ## About this e-book
 
-This e-book was created by [atrahhdis](https://atrahhdis.github.io) using [markdown](https://en.wikipedia.org/wiki/Markdown), [pandoc](https://pandoc.org/) and [calibre](https://calibre-ebook.com/).
+This e-book was created by [ahtrahddis](https://ahtrahddis.github.io) using [markdown](https://en.wikipedia.org/wiki/Markdown), [pandoc](https://pandoc.org/) and [calibre](https://calibre-ebook.com/).
 
 
 ## Version
 
-V 1.11 - 2020-09-30
+V 1.12 - 2020-09-30
