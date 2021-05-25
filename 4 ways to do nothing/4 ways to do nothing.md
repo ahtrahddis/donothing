@@ -10,7 +10,7 @@ This e-book is a collection of various (choiceless) awareness oriented technique
 
 *The following text is an excerpt from Sheng Yen's book ["The Method of No-Method"](https://www.shambhala.com/the-method-of-no-method-1029.html)*
 
-Silent Illumination is another name for *shamata-vipashyana*, the meditative practice of stilling the mind and developing insight into its true nature. This practice originated in Indian Buddhism as early as the time of Shakyamuni Buddha. Traditionally, *shamata-vipashyana* was practiced sequentially. A practitioner progressed from *shamata *(stilling the mind) to *vipashyana* (insight, or illumination). The first stage was to practice *shamata* to achieve *samadhi* and then to practice *vipashyana* to achieve levels of insight. By contrast, in Chan Buddhism, which emphasizes the sudden approach to realization, *shamata* and *vipashyana* are practiced simultaneously.
+Silent Illumination is another name for *shamata-vipashyana*, the meditative practice of stilling the mind and developing insight into its true nature. This practice originated in Indian Buddhism as early as the time of Shakyamuni Buddha. Traditionally, *shamata-vipashyana* was practiced sequentially. A practitioner progressed from *shamata* (stilling the mind) to *vipashyana* (insight, or illumination). The first stage was to practice *shamata* to achieve *samadhi* and then to practice *vipashyana* to achieve levels of insight. By contrast, in Chan Buddhism, which emphasizes the sudden approach to realization, *shamata* and *vipashyana* are practiced simultaneously.
 
 
 ### Relaxing Mind and Body
@@ -582,4 +582,4 @@ This e-book was created by [ahtrahddis](https://ahtrahddis.github.io) using [mar
 
 ## Version
 
-V 1.12 - 2020-09-30
+V 1.13 - 2021-05-25
