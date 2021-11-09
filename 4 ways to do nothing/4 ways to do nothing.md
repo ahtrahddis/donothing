@@ -558,7 +558,6 @@ Now you can appreciate the initial phrase in the instructions: “Let whatever h
 
 [14:27] Someday we won't have to use this technique. We'll have a complete circuitry diagram of the human central nervous system that will be extremely complex – to put it mildly – but we'll probably be able to point to that circuit and probably be able to, from the outside, turn it off for a little while, perhaps inducing at will experiences of freedom from limited identity. 
 
-
 # Notes
 
 ## Sources
