@@ -581,4 +581,4 @@ This e-book was created by [ahtrahddis](https://ahtrahddis.github.io) using [mar
 
 ## Version
 
-V 1.13 - 2021-05-25
+V 1.14 - 2021-11-10
